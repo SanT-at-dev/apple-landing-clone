@@ -33,3 +33,17 @@ A high-fidelity clone of Apple's iPhone 15 Pro landing page, built with **React,
    ```sh
    git clone https://github.com/SanT-at-dev/apple-landing-clone.git
    cd apple-landing-clone
+
+2. **Install dependencies**
+   ```sh
+   npm install
+
+3. **Run the dev server**
+   ```sh
+   npm run dev
+
+## Learning Goals
+
+- **Three.js/React Three Fiber** - 3D rendering pipeline, model controls.
+- **GSAP** - Timeline-based animations, scroll triggers.
+- **Tailwind** - Utility-first responsive design.
